@@ -4,4 +4,4 @@ num = int(input("Enter a number: "))
 if num % 7 == 0 or num % 10 == 5:
     print("The number is divisible by 7 or ends with 5")
 else:
-    print("condition is not satisfied")
+    print("invalid ")
